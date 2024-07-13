@@ -82,4 +82,3 @@ In conclusion, this project presents a successful approach for classifying emoti
 ## References
 
 1. [Kaggle Dataset](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset)
-2. [Research Paper](https://www.researchgate.net/publication/351056923_Facial_Expression_Recognition_Using_CNN_with_Keras)
